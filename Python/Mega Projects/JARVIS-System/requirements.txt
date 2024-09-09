@@ -1,0 +1,4 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+wikipedia
